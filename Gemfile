@@ -26,6 +26,7 @@ gem 'jbuilder', '~> 2.0'
 # bundle exec rake doc:rails generates the API under doc/api.
 gem 'sdoc', '~> 0.4.0', group: :doc
 # ReactJS dependencies
+gem 'webpacker', '~> 3.5'
 gem 'react-rails', "2.4.3"
 gem 'flux-rails-assets'  #Use Facebook's Flux dispatcher and Node EventEmitter in your Rails project.
 gem 'axios_rails'  #Adds Axios into your Rails app.
